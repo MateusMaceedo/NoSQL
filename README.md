@@ -15,8 +15,8 @@ Classes NoSQL
 - Grados (Graph)
 
 #### Reference
-- [db-engines.com/en/ranking_trend](db-engines.com/en/ranking_trend)
-- [db-engines.com/en/ranking](db-engines.com/en/ranking)
+- [db-engines.com/en/ranking_trend](https://db-engines.com/en/ranking_trend)
+- [db-engines.com/en/ranking](https://db-engines.com/en/ranking)
 
 
 
