@@ -5,6 +5,18 @@ NoSQL (Not Only SQL - Não Somente SQL) é um termo genérico que representa os 
 
 Tais bancos de dados existem desde o final da década de 1960, mas não obtiveram o apelido de "NoSQL" até atingirem sua onda de pupularidade no início do século 21, desencadeanda pelas necessidades das empresas de Web 2.0 como Facebook, Google e Amazon.com.
 
+#### Quais são as classes de bancos NoSQL ?
+
+Classes NoSQL
+
+- Chave/Valor (Key-Value)
+- Colunas (Column Family)
+- Documento (Document model)
+- Grados (Graph)
+
+#### Reference
+- [db-engines.com/en/ranking_trend](db-engines.com/en/ranking_trend)
+- [db-engines.com/en/ranking](db-engines.com/en/ranking)
 
 
 
