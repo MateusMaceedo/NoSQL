@@ -18,6 +18,14 @@ Classes NoSQL
 - [db-engines.com/en/ranking_trend](https://db-engines.com/en/ranking_trend)
 - [db-engines.com/en/ranking](https://db-engines.com/en/ranking)
 
+#### O que é MongoDB?
+
+- Document Model / Multi-Model
+- Escrito em C++
+- [Opensource](https://github.com/mongodb/mongo) 
+- Multi-plataforma
+- Recebe e retorna dados em formato JSON, porém armasena dados em formato BSON.
+
 
 
 
