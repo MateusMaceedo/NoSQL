@@ -9,10 +9,10 @@ Tais bancos de dados existem desde o final da década de 1960, mas não obtivera
 
 Classes NoSQL
 
-- Chave/Valor (Key-Value)
-- Colunas (Column Family)
-- Documento (Document model)
-- Grados (Graph)
+- [x] - Chave/Valor (Key-Value)
+- [x] - Colunas (Column Family)
+- [x] - Documento (Document model)
+- [x] - Grados (Graph)
 
 #### Reference
 - [db-engines.com/en/ranking_trend](https://db-engines.com/en/ranking_trend)
